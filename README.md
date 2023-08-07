@@ -13,15 +13,22 @@
  ### Circuits:
 
  - When the html page contains the word forward
+   
    ![image](forward.png)
 
+
  - When the html page contains the word backward
+   
    ![image](backward.png)
 
+
  - When the html page contains the word left
+   
    ![image](left.png)
 
-   - When the html page contains the word right
+
+ - When the html page contains the word right
+   
    ![image](right_.png)
 
 
