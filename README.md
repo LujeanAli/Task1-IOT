@@ -6,7 +6,7 @@
 
  ### Hardware Required:
  - 4 LEDs.
- - ESP.
+ - ESP 32.
  - Wires.
 
   
